@@ -1,0 +1,1 @@
+print('Gunta pirmā programma publicēta gitHub')
